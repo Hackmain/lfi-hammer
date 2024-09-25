@@ -47,7 +47,7 @@ Run the tool by specifying the target URL (`-u`) and the LFI payload wordlist fi
 
 ```bash
 python lfi_hammer.py -u <target_url> -w <path_to_wordlist>
-
+ ```
 **Example:**
 ```bash
 python lfi_hammer.py -u http://example.com -w wordlists/lfi.txt
