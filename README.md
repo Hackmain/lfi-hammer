@@ -74,7 +74,7 @@ You can use your own wordlist for LFI payloads. The wordlist should be a plain t
 ../../../../etc/hosts
 ../../../../proc/self/environ
  ```
-<img src="https://github.com/Hackmain/lfi-hammer/LFI_HAMMER.jpg" alt="LFI_HAMMER">
+<img src="https://github.com/Hackmain/lfi-hammer/LFI_HAMMER.png" alt="LFI_HAMMER">
 
 **Disclaimer**
 This tool is intended for educational purposes only. Use it responsibly and only on targets you have permission to test.
